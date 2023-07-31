@@ -8,4 +8,6 @@ Some description!
 ## Subheader
 Useful tips for managing GitHub
 
-## local Development
+## Local Development
+
+1. Open index.html in your browser
